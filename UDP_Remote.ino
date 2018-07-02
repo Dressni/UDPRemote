@@ -6,8 +6,8 @@
 #include <WiFiUdp.h>
 
 //WiFi-SoftAP credentials
-#define ssid "KVW-Calw Roboter"
-#define password "Seminarkurs20172018"
+#define ssid "TestWlan"
+#define password "12345678"
 
 WiFiUDP Udp;
 SSD1306 display(0x3c, 5, 4);
